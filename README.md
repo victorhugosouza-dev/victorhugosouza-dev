@@ -13,14 +13,14 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/cordova_icon_132466.png">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="[https://res.cloudinary.com/nmnm/image/upload/v1664763479/1606098604339.jpg](https://media.licdn.com/dms/image/D4D03AQG6BLLsZjrqjA/profile-displayphoto-shrink_200_200/0/1705586496039?e=1710979200&v=beta&t=OvWBY93SJ5RruTPZ-vnyrsGESTeZU2DU8c-6CRMGAlw)">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://res.cloudinary.com/app2/image/upload/v1705587455/drf6yeivw0si06rkhixa.jpg">
 </div>
   
   ##
  
 <div> 
   <a href = "victorhugosouza309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/victor-hugo-souza-pires-281077181/](https://media.licdn.com/dms/image/D4D03AQG6BLLsZjrqjA/profile-displayphoto-shrink_200_200/0/1705586496039?e=1710979200&v=beta&t=OvWBY93SJ5RruTPZ-vnyrsGESTeZU2DU8c-6CRMGAlw)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
