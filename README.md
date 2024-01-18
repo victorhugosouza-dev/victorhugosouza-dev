@@ -20,7 +20,7 @@
  
 <div> 
   <a href = "victorhugosouza309@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/victor-hugo-souza-pires-281077181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/victor-hugo-souza-pires-281077181/](https://media.licdn.com/dms/image/D4D03AQG6BLLsZjrqjA/profile-displayphoto-shrink_200_200/0/1705586496039?e=1710979200&v=beta&t=OvWBY93SJ5RruTPZ-vnyrsGESTeZU2DU8c-6CRMGAlw)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
